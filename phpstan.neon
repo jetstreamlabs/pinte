@@ -1,0 +1,10 @@
+includes:
+  - ./vendor/nunomaduro/larastan/extension.neon
+parameters:
+  paths:
+    - app
+    - bootstrap
+    - config
+    - resources
+  level: 6
+  checkGenericClassInNonGenericObjectType: false
