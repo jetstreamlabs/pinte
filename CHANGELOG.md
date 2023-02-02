@@ -1,5 +1,17 @@
 # Pinte Changelog
 
+## [1.0.3](https://github.com/jetstreamlabs/pinte/compare/v1.0.2...v1.0.3) (2023-02-02)
+
+
+### Bug Fixes
+
+* overrid for CVE-2022-25881 ([018b416](https://github.com/jetstreamlabs/pinte/commit/018b416092f3b96b08ffa24224b8a58426dea8e7))
+
+
+### Maintenance
+
+* update readme ([137797a](https://github.com/jetstreamlabs/pinte/commit/137797a1da952e3ae96f6f3015e30c1ef08a6394))
+
 ## [1.0.2](https://github.com/jetstreamlabs/pinte/compare/v1.0.1...v1.0.2) (2023-02-02)
 
 
