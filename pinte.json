@@ -1,5 +1,5 @@
 {
-	"preset": "laravel",
-	"indent": "  ",
-	"exclude": ["tests/Fixtures"]
+  "preset": "laravel",
+  "indent": "  ",
+  "exclude": ["tests/Fixtures"]
 }
