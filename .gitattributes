@@ -1,0 +1,30 @@
+* text=auto
+
+*.blade.php diff=html
+*.css diff=css
+*.html diff=html
+*.md diff=markdown
+*.php diff=php
+
+/.editorconfig export-ignore
+/.gitattributes export-ignore
+/.github export-ignore
+/.gitignore export-ignore
+/CHANGELOG.md export-ignore
+/README.md export-ignore
+/RELEASE.md export-ignore
+/UPGRADE.md export-ignore
+/app export-ignore
+/art export-ignore
+/bootstrap export-ignore
+/box.json export-ignore
+/composer.lock export-ignore
+/config export-ignore
+/phpstan.neon export-ignore
+/phpunit.xml.dist export-ignore
+/pinte export-ignore
+/pinte.json export-ignore
+/resources export-ignore
+/src export-ignore
+/storage export-ignore
+/tests export-ignore
