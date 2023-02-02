@@ -1,5 +1,20 @@
 # Pinte Changelog
 
+## [1.0.2](https://github.com/jetstreamlabs/pinte/compare/v1.0.1...v1.0.2) (2023-02-02)
+
+
+### Bug Fixes
+
+* update tests for php 8.1 and above ([f8f1725](https://github.com/jetstreamlabs/pinte/commit/f8f17257245b1baff54318512985ac73fa15d5af))
+
+
+* added tests back after configuration ([472b664](https://github.com/jetstreamlabs/pinte/commit/472b664746073b6791cbf10a86d5d1298b0b8398))
+
+
+### Maintenance
+
+* update husky commands ([6ade7be](https://github.com/jetstreamlabs/pinte/commit/6ade7be8c60ec16d1c06501643a7cc8cab8c050c))
+
 ## [1.0.1](https://github.com/jetstreamlabs/pinte/compare/v1.0.0...v1.0.1) (2023-02-02)
 
 
