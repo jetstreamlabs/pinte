@@ -1,5 +1,12 @@
 # Pinte Changelog
 
+## [1.0.1](https://github.com/jetstreamlabs/pinte/compare/v1.0.0...v1.0.1) (2023-02-02)
+
+
+### Bug Fixes
+
+* update phar compile to php 8.1 ([9323b84](https://github.com/jetstreamlabs/pinte/commit/9323b84472a3df29c0d57128c9eae8724ec02b8c))
+
 # 1.0.0 (2023-02-02)
 
 
