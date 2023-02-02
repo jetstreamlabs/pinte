@@ -1,11 +1,7 @@
-<p align="center"><img src="https://github.com/jetstreamlabs/pinte/raw/HEAD/art/logo.svg" width="50%" alt="Logo Pinte"></p>
+<p align="center"><img src="https://github.com/jetstreamlabs/pinte/raw/HEAD/art/logo.svg" width="200" alt="Logo Pinte"></p>
 
 <p align="center">
-    <img src="/art/overview.png" alt="Overview Pinte" style="width:70%;">
-</p>
-
-<p align="center">
-    <a href="https://github.com/jetstreamlabs/pinte/actions"><img src="https://github.com/jetstreamlabs/pinte/workflows/tests/badge.svg" alt="Build Status"></a>
+    <a href="https://github.com/jetstreamlabs/pinte/actions/tests.yml"><img src="https://github.com/jetstreamlabs/pinte/workflows/tests/badge.svg" alt="Build Status"></a>
     <a href="https://packagist.org/packages/jetstreamlabs/pinte"><img src="https://img.shields.io/packagist/dt/jetstreamlabs/pinte" alt="Total Downloads"></a>
     <a href="https://packagist.org/packages/jetstreamlabs/pinte"><img src="https://img.shields.io/packagist/v/jetstreamlabs/pinte" alt="Latest Stable Version"></a>
     <a href="https://packagist.org/packages/jetstreamlabs/pinte"><img src="https://img.shields.io/packagist/l/jetstreamlabs/pinte" alt="License"></a>
