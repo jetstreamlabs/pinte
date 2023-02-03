@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "lint": "php pinte --dirty",
+    "lint": "php ./builds/pinte --dirty",
     "cn": "composer update && npm update",
     "tests": "php ./vendor/bin/pest"
   },
