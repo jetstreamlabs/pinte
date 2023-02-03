@@ -7,31 +7,31 @@ it('fixes the code', function () {
   ]);
 
   expect($statusCode)->toBe(1)
-    ->and($output)
-    ->toContain('  ⨯')
-    ->toContain(
-      <<<'EOF'
+  ->and($output)
+  ->toContain('  ⨯')
+  ->toContain(
+    <<<'EOF'
   -$a = function ()
   -{
   +$a = function () {
        // ..
    };
 EOF,
-    )->toContain(
-      <<<'EOF'
+  )->toContain(
+    <<<'EOF'
   -new class {
   +new class
   +{
        // ..
    };
 EOF,
-    )->toContain(
-      <<<'EOF'
+  )->toContain(
+    <<<'EOF'
   -new class extends stdClass {
   +new class extends stdClass
   +{
        // ..
    };
 EOF,
-    );
+  );
 });

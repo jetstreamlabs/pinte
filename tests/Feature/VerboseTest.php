@@ -7,7 +7,7 @@ it('displays the code diff', function () {
   ]);
 
   expect($statusCode)->toBe(1)
-    ->and($output)
-    ->toContain('-$a = new stdClass;')
-    ->toContain('+$a = new stdClass()');
+  ->and($output)
+  ->toContain('-$a = new stdClass;')
+  ->toContain('+$a = new stdClass()');
 });

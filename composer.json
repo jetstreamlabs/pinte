@@ -1,6 +1,6 @@
 {
   "name": "jetstreamlabs/pinte",
-  "description": "An opinionated code formatter for PHP.",
+  "description": "A less opinionated code formatter for PHP, based on Laravel Pint.",
   "keywords": [
     "php",
     "format",

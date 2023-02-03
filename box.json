@@ -1,12 +1,10 @@
 {
-	"chmod": "0755",
-	"directories": ["app", "bootstrap", "config", "resources", "vendor"],
-	"files": ["composer.json"],
-	"exclude-composer-files": false,
-	"exclude-dev-files": false,
-	"compression": "GZ",
-	"compactors": [
-		"KevinGH\\Box\\Compactor\\Php",
-		"KevinGH\\Box\\Compactor\\Json"
-	]
+  "chmod": "0755",
+  "directories": ["app", "bootstrap", "config", "resources", "vendor"],
+  "files": ["composer.json"],
+  "blacklist": ["package.json", "package-lock.json", "release.config.js"],
+  "exclude-composer-files": false,
+  "exclude-dev-files": false,
+  "compression": "GZ",
+  "compactors": ["KevinGH\\Box\\Compactor\\Php", "KevinGH\\Box\\Compactor\\Json"]
 }

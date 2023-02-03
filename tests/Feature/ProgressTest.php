@@ -7,8 +7,8 @@ it('display progress when fixing issues', function () {
   ]);
 
   expect($statusCode)->toBe(1)
-    ->and($output)
-    ->toContain('  ⨯');
+  ->and($output)
+  ->toContain('  ⨯');
 });
 
 it('display progress when detecting non fixable issues', function () {
@@ -18,8 +18,8 @@ it('display progress when detecting non fixable issues', function () {
   ]);
 
   expect($statusCode)->toBe(1)
-    ->and($output)
-    ->toContain('  !');
+  ->and($output)
+  ->toContain('  !');
 });
 
 it('display progress when no issues were found', function () {
@@ -29,6 +29,6 @@ it('display progress when no issues were found', function () {
   ]);
 
   expect($statusCode)->toBe(0)
-    ->and($output)
-    ->toContain('  .');
+  ->and($output)
+  ->toContain('  .');
 });

@@ -31,5 +31,5 @@ it('may be fixable or not', function () {
   $nonFixable = new Issue(__DIR__, __FILE__, 'F', []);
 
   expect($fixable->fixable())->toBeTrue()
-    ->and($nonFixable->fixable())->toBeFalse();
+  ->and($nonFixable->fixable())->toBeFalse();
 });

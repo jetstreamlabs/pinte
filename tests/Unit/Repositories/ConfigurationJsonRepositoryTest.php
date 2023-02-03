@@ -6,7 +6,7 @@ it('works without json file', function () {
   $repository = new ConfigurationJsonRepository(null, 'psr12');
 
   expect($repository->finder())->toBeEmpty()
-    ->and($repository->rules())->toBeEmpty();
+  ->and($repository->rules())->toBeEmpty();
 });
 
 it('may have rules options', function () {

@@ -7,10 +7,10 @@ it('fixes the code', function () {
   ]);
 
   expect($statusCode)->toBe(1)
-    ->and($output)
-    ->toContain('  ⨯')
-    ->toContain(
-      <<<'EOF'
+  ->and($output)
+  ->toContain('  ⨯')
+  ->toContain(
+    <<<'EOF'
    /**
   - * @return string
     * @param  string  $foo
@@ -18,5 +18,5 @@ it('fixes the code', function () {
   + * @return string
     */
 EOF,
-    );
+  );
 });

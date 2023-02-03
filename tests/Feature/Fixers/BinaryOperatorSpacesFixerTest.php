@@ -7,18 +7,18 @@ it('fixes the code', function () {
   ]);
 
   expect($statusCode)->toBe(1)
-    ->and($output)
-    ->toContain(
-      <<<'EOF'
+  ->and($output)
+  ->toContain(
+    <<<'EOF'
   -    'long_item_name' =>  'value',
   -    'short'          =>  'value',
   +    'long_item_name' => 'value',
   +    'short' => 'value',
 EOF,
-    )->toContain(
-      <<<'EOF'
+  )->toContain(
+    <<<'EOF'
   -$array = array_filter($array, fn ($item)  =>  $item === 'value');
   +$array = array_filter($array, fn ($item) => $item === 'value');
 EOF,
-    );
+  );
 });
