@@ -19,13 +19,13 @@ it('may have rules options', function () {
 
 it('may have indent option', function () {
   $repository = new ConfigurationJsonRepository(dirname(__DIR__, 2).'/Fixtures/configs/pinte.json', null);
-  
+
   expect($repository->indent())->toBe("\t");
 });
 
 it('may have lineEnding option', function () {
   $repository = new ConfigurationJsonRepository(dirname(__DIR__, 2).'/Fixtures/configs/pinte.json', null);
-  
+
   expect($repository->lineEnding())->toBe("\r\n");
 });
 
