@@ -1,5 +1,17 @@
 # Pinte Changelog
 
+## [1.0.5](https://github.com/jetstreamlabs/pinte/compare/v1.0.4...v1.0.5) (2023-02-03)
+
+
+### Bug Fixes
+
+* box settings to remove added files ([a4c5b9f](https://github.com/jetstreamlabs/pinte/commit/a4c5b9fa2dd44975ee06af93d2440cca13a14d65))
+
+
+### Code Refactoring
+
+* version bump ([ddccdac](https://github.com/jetstreamlabs/pinte/commit/ddccdac44f25bc88601db2a04bf7a1715fc8cb5e))
+
 ## [1.0.4](https://github.com/jetstreamlabs/pinte/compare/v1.0.3...v1.0.4) (2023-02-03)
 
 
