@@ -1,5 +1,17 @@
 # Pinte Changelog
 
+## [1.0.4](https://github.com/jetstreamlabs/pinte/compare/v1.0.3...v1.0.4) (2023-02-03)
+
+
+### Code Refactoring
+
+* add tests for new configs ([6095b70](https://github.com/jetstreamlabs/pinte/commit/6095b70cf3c2a78454918d9c09f039f7da802ed3))
+
+
+### Maintenance
+
+* style fix ([43a4841](https://github.com/jetstreamlabs/pinte/commit/43a4841ab7c1ab824659d0ee0077087bf4c50912))
+
 ## [1.0.3](https://github.com/jetstreamlabs/pinte/compare/v1.0.2...v1.0.3) (2023-02-02)
 
 
