@@ -19,7 +19,47 @@ If there are other configuration additions you'd like added please feel free to 
 
 ## Official Documentation
 
-Documentation for Pinte is forthcoming.
+### Installation
+
+```bash
+$ composer require jetstreamlabs/pinte --dev
+```
+
+### Usage
+
+Use the same commands as Pint:
+
+```bash
+$ php ./vendor/bin/pinte
+```
+
+or
+
+```bash
+$ php ./vendor/bin/pinte --dirty
+```
+
+To change the indentation, add the indent option to `pinte.json`:
+
+```json
+{
+  "indent": "\t" | "  "
+}
+```
+
+Default for intentation is 4 spaces: " "
+
+To change the line ending option:
+
+```json
+{
+  "lineEndings": "\r\n"
+}
+```
+
+Default line ending is a single newline: "\n"
+
+> Further documentation for Pinte is forthcoming.
 
 <a name="security-vulnerabilities"></a>
 
