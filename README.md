@@ -53,7 +53,7 @@ To change the line ending option:
 
 ```json
 {
-  "lineEndings": "\r\n"
+  "lineEnding": "\r\n"
 }
 ```
 
