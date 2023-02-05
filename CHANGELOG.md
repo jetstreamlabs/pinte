@@ -1,5 +1,12 @@
 # Pinte Changelog
 
+## [1.0.6](https://github.com/jetstreamlabs/pinte/compare/v1.0.5...v1.0.6) (2023-02-05)
+
+
+### Code Refactoring
+
+* **docs:** updated readme ([8fba78e](https://github.com/jetstreamlabs/pinte/commit/8fba78e35bdf0d3fe162371b6e3f7bb40f955d4a))
+
 ## [1.0.5](https://github.com/jetstreamlabs/pinte/compare/v1.0.4...v1.0.5) (2023-02-03)
 
 
