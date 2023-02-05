@@ -43,7 +43,7 @@ To change the indentation, add the indent option to `pinte.json`:
 
 ```json
 {
-  "indent": "\t" | "  "
+  "indent": "\t"
 }
 ```
 
