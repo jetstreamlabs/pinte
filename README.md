@@ -47,7 +47,7 @@ To change the indentation, add the indent option to `pinte.json`:
 }
 ```
 
-Default for intentation is 4 spaces: " "
+Default for intentation is **4 spaces.**
 
 To change the line ending option:
 
@@ -57,7 +57,7 @@ To change the line ending option:
 }
 ```
 
-Default line ending is a single newline: "\n"
+Default line ending is a single **newline.**
 
 > Further documentation for Pinte is forthcoming.
 
