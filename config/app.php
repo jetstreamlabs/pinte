@@ -17,7 +17,7 @@ return [
    * in. You may want to follow the "Semantic Versioning" - Given a version
    * number MAJOR.MINOR.PATCH when an update happens: https://semver.org.
    */
-  'version' => '1.0.7',
+  'version' => '1.1.0',
 
   /**
    * APPLICATION ENVIRONMENT
