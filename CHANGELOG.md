@@ -1,5 +1,27 @@
 # Pinte Changelog
 
+# [1.1.0](https://github.com/jetstreamlabs/pinte/compare/v1.0.6...v1.1.0) (2023-06-24)
+
+
+### Code Refactoring
+
+* update deps and versions ([9b6bb55](https://github.com/jetstreamlabs/pinte/commit/9b6bb5530ca3f1ac5ebd315fd8c38662b59bcdb6))
+
+
+### Features
+
+* update zero and pest ([ea4c030](https://github.com/jetstreamlabs/pinte/commit/ea4c030b8ceb95567790e6d1c75da08852e812d0))
+
+
+### Maintenance
+
+* **deps-dev:** bump @commitlint/cli from 17.6.3 to 17.6.5 ([a0709da](https://github.com/jetstreamlabs/pinte/commit/a0709da31fbbecf2e8ce3ed0e39d04e5b2be2eed))
+* **deps-dev:** bump semantic-release from 21.0.2 to 21.0.5 ([d183602](https://github.com/jetstreamlabs/pinte/commit/d183602c45f1d3a845be369c4aef4fbb6b5efc43))
+* **dev-deps:** update dev deps —dpbot ([1b288c8](https://github.com/jetstreamlabs/pinte/commit/1b288c89345f0d965d64f22255d8c6839bf331c0))
+* **docs:** readme typo ([2053ee8](https://github.com/jetstreamlabs/pinte/commit/2053ee896fbd1e670fb642c358883cce6688fa53))
+* **docs:** update readme ([faaa790](https://github.com/jetstreamlabs/pinte/commit/faaa790b4e23cf7c5451f0876ce3601fab6aae04))
+* readme typo ([9b73263](https://github.com/jetstreamlabs/pinte/commit/9b732633fce639ef79996829fff8381452e77b63))
+
 ## [1.0.6](https://github.com/jetstreamlabs/pinte/compare/v1.0.5...v1.0.6) (2023-02-05)
 
 
