@@ -7,14 +7,11 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^17.6.5",
-    "@commitlint/config-conventional": "^17.6.3",
+    "@commitlint/config-conventional": "^17.6.5",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "husky": "^8.0.3",
     "semantic-release": "^21.0.5"
-  },
-  "engines": {
-    "npm": "^9.4.1"
   },
   "commitlint": {
     "extends": [
@@ -39,11 +36,6 @@
           "chore"
         ]
       ]
-    }
-  },
-  "overrides": {
-    "@semantic-release/npm": {
-      "npm": "^9.4.1"
     }
   }
 }
