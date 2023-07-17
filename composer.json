@@ -39,7 +39,8 @@
     "mockery/mockery": "^1.6",
     "nunomaduro/larastan": "^2.6",
     "nunomaduro/termwind": "^1.15",
-    "pestphp/pest": "^2.8"
+    "pestphp/pest": "^2.8",
+    "tightenco/duster": "^2.1"
   },
   "autoload": {
     "psr-4": {
